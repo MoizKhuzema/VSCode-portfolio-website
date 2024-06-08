@@ -1,0 +1,17 @@
+{
+    "welcome": "خوش آمدید",
+    "title.about": "کے بارے میں",
+    "title.skills": "ہنر",
+    "title.works": "کام کی تاریخ",
+    "title.portfolio": "پورٹ فولیو",
+    "name.about": "About.ts",
+    "name.skills": "Skills.ts",
+    "name.works": "WorkHistory.ts",
+    "name.portfolio": "Portfolio.ts",
+    "sidebar.title": "ایکسپلورر",
+    "welcome.title": "میری پورٹ فولیو سائٹ میں خوش آمدید!",
+    "welcome.pages": "صفحات دیکھنے کے لیے",
+    "welcome.search": "صفحات تلاش کرنے کے لیے",
+    "welcome.lang": "زبان بدلنے کے لیے",
+    "welcome.mode": "موڈ کو تبدیل کرنے کے لیے"
+}

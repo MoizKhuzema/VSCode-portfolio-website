@@ -1,0 +1,15 @@
+{
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "degree": "Degree",
+    "freelance": "Freelance",
+    "remote": "Remote",
+    "birthDay": "Birth Day",
+    "yes.freelance": "Valid",
+    "no.freelance": "Invalid",
+    "yes.remote": "Valid",
+    "no.remote": "Invalid",
+    "description": "Hello! I’m Moiz Khuzema, a spirited Machine Learning Engineer with a knack for transforming complex data into captivating tech solutions. With a Bachelor’s in Artificial Intelligence from the prestigious Ghulam Ishaq Khan Institute, I’ve spent the last couple of years pushing the boundaries of what AI can achieve in real-world applications. \nAt 3NSai, I dove headfirst into the exciting world of Web3, developing a digital asset domain naming system with text generation models. Not one to shy away from a challenge, I’ve also ventured into the visual realm, using tools like DALL-E 3 to create digital assets that are not only precise but pretty impressive to look at too! Additionally, I've expanded my technical repertoire by integrating high-frequency trading functionality for digital assets, harnessing AI to manage and execute trades at speeds that optimize financial outcomes. \nWhen I'm not busy coding or challenging algorithms, you can find me freelancing — where I once built a CNN model that could judge a website's aesthetics with the accuracy of a seasoned art critic. Or, I might be dabbling in the development of GAN models to generate floor plans that could make any architect's job a breeze. \nMy programming journey is driven by a simple philosophy: to blend innovation with utility, one line of code at a time. Whether it’s through meticulous model training or crafting user-friendly software, I’m on a mission to make technology both accessible and enjoyable. \nWant to see how we can revolutionize the tech landscape together? Let’s chat!"
+}
