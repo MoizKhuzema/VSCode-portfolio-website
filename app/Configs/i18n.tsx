@@ -12,7 +12,7 @@ import enSkills from "../../public/locales/en/skills.json";
 import trWorks from "../../public/locales/tr/works.json";
 import enWorks from "../../public/locales/en/works.json";
 
-const defaultLang = "tr";
+const defaultLang = "en";
 const resources = {
   tr: {
     common: trCommon,
