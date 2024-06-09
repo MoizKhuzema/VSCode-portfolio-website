@@ -266,7 +266,7 @@ const Config = {
       },
       description:
         "I developed a novel method to automate the generation of crypto trading signals by utilizing binance api for historical data, autoGPT for market/news sentiment, TALib for technical analysis, and OpenAI for language generation.",
-      img: "/projects/entegrenity.jpg",
+      img: "https://i.ibb.co/MnDXt13/entegrenity.jpg",
     },
     {
       id: 2,
@@ -283,7 +283,7 @@ const Config = {
       },
       description:
         "I wrote a script to combine multiple images into a 3d orthomosiac mesh, preprocessed it into 8x8 tiles and trained a yolov5 model to detect potential fire hazards. The model also measures the level of threat based on how close the threat is to houses.",
-      img: "/projects/barcode-finder.jpg",
+      img: "https://i.ibb.co/Z2vqx5H/barcode.jpg",
     },
     {
       id: 3,
@@ -299,7 +299,7 @@ const Config = {
       },
       description:
         "I created a website that scrapes nfl match schedules and live streaming links from https://reddit1.nflbite.com/ and allows user to view matches live for free.",
-      img: "/projects/barcode.jpg",
+      img: "https://i.ibb.co/n0Mb7b6/barcode-finder.jpg",
     },
     {
       id: 4,
@@ -312,7 +312,7 @@ const Config = {
       },
       description:
         "Wrote a script that takes screenshots of webpages using selenium. Developed a CNN model that scores the webpage aesthetics on a scale of 10. The model is capable of recognizing the genre of webpage (news, sports, entertainment, etc) and score respectively. The model is trained on 20000 images from Kaggle's Webscreenshots dataset.",
-      img: "/projects/tdk.jpg",
+      img: "https://i.ibb.co/gjtXnLG/tdk.jpg",
     },
     {
       id: 5,
@@ -328,7 +328,7 @@ const Config = {
       },
       description:
         "I developed a GAN model from scratch that takes house and room dimensions as input and generates a blueprint of floorplan. The model is trained on LIFULL HOME’s dataset comprising 117,000 floor plans. The model follows the chinese residency regulations.",
-      img: "/projects/lingo-web.jpg",
+      img: "https://i.ibb.co/Zzx1yy5/lingo-web.jpg",
     },
     {
       id: 6,
@@ -344,7 +344,7 @@ const Config = {
       },
       description:
         "Developed a tracking system to detect and track litter falling from high-rise buildings. The system is capable of detecting litter apart from weather conditions, birds, bugs, and other noises. The system uses kalman filtering to identify which window the littering was done from. I integrated the tracking system into a HIKSVISION CCTV camera and developed a dashboard to record littering evidence.",
-      img: "/projects/lingo-web.jpg",
+      img: "https://i.ibb.co/Zzx1yy5/lingo-web.jpg",
     },
     {
       id: 7,
@@ -361,7 +361,7 @@ const Config = {
       },
       description:
         "I performed Exploratory Data Analysis on the following Kaggle Datasets: CIFAR-10, Pak-Wheels, Play Tennis, Breast Cancer, Titanic, Iris, Pima Indians Diabetes",
-      img: "/projects/lingo-web.jpg",
+      img: "https://i.ibb.co/Zzx1yy5/lingo-web.jpg",
     },
     {
       id: 8,
@@ -377,7 +377,7 @@ const Config = {
       },
       description:
         "I performed Sentiment Analysis on the following Kaggle Datasets: cyber bullying, amazon data analysis, fake/real news, earthquake tweets, elon musk tweets, movie reviews, ecommerce reviews",
-      img: "/projects/lingo-web.jpg",
+      img: "https://i.ibb.co/Zzx1yy5/lingo-web.jpg",
     },
   ],
 };
