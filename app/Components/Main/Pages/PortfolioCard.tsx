@@ -63,12 +63,12 @@ function PortfolioCard({ item }: Props) {
           {item.title}
         </h4>
       </div>
-      <Image
-        src={item.img}
-        width={1900}
-        height={900}
-        alt={item.title}
-        className='rounded-t-xl w-full'
+      <div
+        className={`rounded-t-xl w-full h-auto`}
+        style={{
+          backgroundColor: theme === "dark" ? "bg-dark6" : "bg-light6",
+          height: "120px" // Set a fixed height, or adjust as needed
+        }}
       />
 
       <div
