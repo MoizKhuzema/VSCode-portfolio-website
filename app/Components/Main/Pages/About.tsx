@@ -45,7 +45,7 @@ const About = (props: Props) => {
     >
       <div className='py-5 px-1 flex md:flex-col justify-start items-start md:items-center w-full md:max-w-[350px] md:self-stretch'>
         <Image
-          src='https://gittings.com/wp-content/uploads/2017/05/law-firm-photography-gittingslegal-portraits-NE27353_09-800x800-1.jpg'
+          src='https://i.ibb.co/twfhxbk/profile.jpg'
           width={1000}
           height={1000}
           className='rounded-full object-fill w-1/5 md:w-2/3 shadow-md shadow-slate-600'
