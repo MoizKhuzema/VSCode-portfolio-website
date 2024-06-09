@@ -1,10 +1,11 @@
 /** @type {import('next').NextConfig} */
 
-
 const nextConfig = {
-    swcMinify: true,
-    optimizeFonts: true,
-    minimumCacheTTL: 15000000
+  basePath: '/portfolio-website',  // Add the basePath here
+  swcMinify: true,
+  optimizeFonts: true,
+  minimumCacheTTL: 15000000
 };
 
-export default nextConfig;
+module.exports = nextConfig;
+
